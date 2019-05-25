@@ -1,0 +1,32 @@
+AUTOMATIC CHALLAN GENERATION 
+
+TEAM NUMBER: A10
+
+TEAM MEMBER DETAILS
+ FIRST MEMBER: 
+    NAME:        PHANI DEEP DIVVELA
+    PHONE NO:    9505395396
+    EMAIL:       deepudivvela24@gmail.com
+    GITHUB LINK: https://github.com/PhaniDivvela
+    LINKEDIN:    https://www.linkedin.com/in/phani-deep-divvela-b68379186/
+ 
+ SECOND MEMBER:
+    NAME:        GUNA RAMYA CHEKKA
+    PHONE NO:    7995189929
+    EMAIL:       chekkagunaramya@gmail.com
+    GITHUB LINK: https://github.com/gunaramya
+    LINKEDIN:    https://www.linkedin.com/in/chekka-guna-ramya-a44379186/
+
+ THIRD MEMBER: 
+    NAME:        KRISHNAVENI MEGHAVATH
+    PHONE NO:    9666561864
+    EMAIL:       krishnavenicute@gmail.com
+    GITHUB LINK: https://github.com/meghavathkrishnaveni
+    LINKEDIN:    https://www.linkedin.com/in/krishnaveni-meghavath-a0b379186/
+  
+ FOURTH MEMBER:
+    NAME:        DIVYA BUSE
+    PHONE NO:    7396970469
+    EMAIL:       divyabuse@gmail.com
+    GITHUB LINK: https://github.com/divyabuse
+    LINKEDIN:    https://www.linkedin.com/in/divya-buse-b37379186/
